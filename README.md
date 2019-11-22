@@ -4,3 +4,5 @@ Cause it seems unnecessary someone else decides the style (are we still writing 
 [citationJS](https://peerj.com/articles/cs-214/) sure is part of the solution(s). Look at it.
 
 Also https://doi-to-bibtex-converter.herokuapp.com/
+
+Update: Pandoc might also be part of a solution
