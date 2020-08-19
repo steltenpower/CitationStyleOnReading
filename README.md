@@ -9,3 +9,7 @@ Some things towards a solution:
 - [Zotero](https://www.zotero.org/)
 - [citations in Rmarkdown](https://rmarkdown.rstudio.com/authoring_bibliographies_and_citations.html)
 - https://github.com/manubot/manubot/tree/v0.4.0
+
+GoogleDocs extension?
+
+publisher page?
