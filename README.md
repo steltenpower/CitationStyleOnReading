@@ -13,3 +13,7 @@ Some things towards a solution:
 GoogleDocs extension?
 
 publisher page?
+
+
+Broader thought:"Towards no more writing and publishing papers?"
+https://twitter.com/steltenpower/status/1266167975733755906
