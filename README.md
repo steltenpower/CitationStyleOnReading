@@ -1,5 +1,6 @@
 # ReadYourFavoriteCitationStyleEverywhere
 Cause it seems unnecessary someone else decides the style (are we still writing on paper, or what?)
+Move applying the style from writing to reading
 
 Some things towards a solution:
 - [identifier to Bibtex](https://doi-to-bibtex-converter.herokuapp.com/)
