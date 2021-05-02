@@ -19,3 +19,5 @@ publisher page?
 
 Broader thought:"Towards no more writing and publishing papers?"
 https://twitter.com/steltenpower/status/1266167975733755906
+
+Is there a machine-actionable way to note what CSL/locale/version has been used? For validators? Others?
