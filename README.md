@@ -1,5 +1,6 @@
 # ReadYourFavoriteCitationStyleEverywhere
 Cause it seems unnecessary someone else decides the style (are we still writing on paper, or what?).
+<img src="https://repository-images.githubusercontent.com/151168459/62a2cd80-789c-11eb-8083-56f4b2fadc66">
 
 Move applying the style from writing to reading
 
